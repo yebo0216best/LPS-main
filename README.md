@@ -1,4 +1,4 @@
-## Bridging the Gap: Learning Pace Synchronization for Open-World Semi-Supervised Learning [[Paper]](https://arxiv.org/pdf/2309.11930.pdf) [[Website]](https://github.com/yebo0216best/LPS-main)
+## (IJCAI2024 Long Oral) Bridging the Gap: Learning Pace Synchronization for Open-World Semi-Supervised Learning [[Paper]](https://arxiv.org/pdf/2309.11930.pdf) [[Website]](https://github.com/yebo0216best/LPS-main)
 This repository contains the implementation details of our Learning Pace Synchronization (LPS) approach for Open-World Semi-Supervised Learning
 
 Bo Ye, Kai Gan, Tong Wei, Min-Ling Zhang, "Bridging the Gap: Learning Pace Synchronization for Open-World Semi-Supervised Learning"\
