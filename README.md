@@ -1,6 +1,4 @@
-## (IJCAI 2024) Bridging the Gap: Learning Pace Synchronization for Open-World Semi-Supervised Learning [[Paper]](https://arxiv.org/pdf/2309.11930.pdf) [[Website]](https://github.com/yebo0216best/LPS-main)
-We are delighted that LPS has been accepted as a Long Oral presentation by IJCAI 2024.
-
+## (IJCAI 2024) Bridging the Gap: Learning Pace Synchronization for Open-World Semi-Supervised Learning [[Paper]](https://arxiv.org/pdf/2309.11930.pdf))
 This repository contains the implementation details of our Learning Pace Synchronization (LPS) approach for Open-World Semi-Supervised Learning
 
 Bo Ye, Kai Gan, Tong Wei, Min-Ling Zhang, "Bridging the Gap: Learning Pace Synchronization for Open-World Semi-Supervised Learning"\
@@ -8,13 +6,13 @@ Bo Ye, Kai Gan, Tong Wei, Min-Ling Zhang, "Bridging the Gap: Learning Pace Synch
 If you use the codes from this repo, please cite our work. Thanks!
 
 ```
-@misc{ye2024bridging,
-      title={Bridging the Gap: Learning Pace Synchronization for Open-World Semi-Supervised Learning}, 
-      author={Bo Ye and Kai Gan and Tong Wei and Min-Ling Zhang},
-      year={2024},
-      eprint={2309.11930},
-      archivePrefix={arXiv},
-      primaryClass={cs.LG}
+@inproceedings{ye2024bridging,
+  author={Bo Ye and Kai Gan and Tong Wei and Min-Ling Zhang},
+  title={Bridging the Gap: Learning Pace Synchronization for Open-World Semi-Supervised Learning},
+  booktitle={Proceedings of the Thirty-Third International Joint Conference on Artificial Intelligence, {IJCAI} 2024, Jeju, South Korea, August 3-9, 2024},
+  pages        = {5362--5370},
+  publisher    = {ijcai.org},
+  year         = {2024}
 }
 ```
 
